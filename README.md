@@ -15,6 +15,7 @@
 </div>
 
 
+
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
@@ -30,7 +31,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/khaleedo/netflix_clone.git
+    git clone https://github.com/N4si/DevSecOps-Project.git
     ```
     
 
@@ -748,6 +749,4 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 **Phase 7: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.#   n e t f l i x _ c l o n e 
- 
- 
+    - Terminate AWS EC2 instances that are no longer needed.
